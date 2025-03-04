@@ -1,0 +1,3 @@
+,EnemyType,Health,Attack,Defense,Agility,CriticalChance
+0,Enemy_Brawler,100,5,10,2,0
+1,Enemy_Dodger,80,5,10,10,20
